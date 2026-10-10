@@ -3,10 +3,10 @@ This is the repository for a school-leaving project on the website https://a2019
 
 ## Images from game
 ### Game Menu
-![Game Menu picture](it_hunts_image1.png)
+<img src="it_hunts_image1.png" height="400">
 
 ### Gameplay
-![Gameplay picture](it_hunts_image2.png)
+<img src="it_hunts_image2.png" height="400">
 
 ### Map
-![Game map picture](it_hunts_image3.png)
+<img src="it_hunts_image3.png" height="400">
